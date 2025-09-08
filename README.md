@@ -1,6 +1,10 @@
 # FNaF-1-PSP-v1.4.5
 This is a playable version of my optimized FNaF Port for the PSP (Originally ported by BasDev). This update includes several optimizations to improve performance and stability during gameplay
 
+Update: 9-8-2025 6:54PM EST - The download for version 1.5 (TESTING) is now live!
+If you feel like testing an Even More optimized version of this game, simply change branches from "main" to  "v1.5---TESTING"
+Please keep in mind that v1.5 is not fully tested yet, but features a re-working of how animatronics move with considerably less CPU overhead
+
 --Notes from README.txt--
 What up peeps!
 A few days ago I came across the BasDev's PSP port of FNaF 1.
