@@ -1,34 +1,19 @@
-# FNaF-1-PSP-v1.4.5
-This is a playable version of my optimized FNaF Port for the PSP (Originally ported by BasDev). This update includes several optimizations to improve performance and stability during gameplay
+# FNaF-1-PSP-v1.5 - TESTING
+!! THIS IS AN EXPERIMENTAL BRANCH !!
+!! TESTING IS NOT COMPLETE YET !!
 
---Notes from README.txt--
-What up peeps!
-A few days ago I came across the BasDev's PSP port of FNaF 1.
-Although it's a very good port of the game, I've noticed that the assets used in version 1.4.0 were a little large and not very well optimized for the PSP's limited ram.
+I've been looking into BaseDev's source code and was playing around with a few things in an attempt to utilize even more of the PSP's hardware when playing the game.
+From my testing to create v1.4.5, i've noticed that performance always took the biggest hit whenever animatronics were moving around.
 
-So I took it upon myself to optimize BasDev's port in an attempt to minimize the crashes experienced by the game.
-
-I can't take any credit for BasDev's hard work to get this project off the ground, I simply made some tweaks to make his game a little easier for the PSP to process. 
-
-What you see here is NOT the source code of the v1.4.5. 
-It's simply the compiled "Ready To Play" version of the game.
+Here is a compliled version of v1.5 to hopefully cleanup some of the logic
+-Cesar
 
 --Installation--
-Simply place the "FNaF 1 PSP v1.4.5" folder in the /PSP/GAME/ directory of your memory card 
+Simply place the "FNaF 1 PSP v1.5" folder in the /PSP/GAME/ directory of your memory card 
 (Custom firmware is required to play)
 
 --Testing--
-This version of the game was tested on both...
+Testing is NOT complete on this version of the game!
 
-1.) The ppsspp emulator (set to replicate the hardware of a PSP 2000/3000)
-
-as well as...
-2.) A physical PSP 3000 running ARK-4 version 6.60
-
---Notes--
-Testing was done on both the stock PSP CPU clock speed as well as an overclock to 333MHZ
-On stock clock speeds, there are some frame rate dips when Freddy & Friends move at night. 
-(Running an Overclock helps make these slowdowns less apparent)
-
-FNaF is a game by Scott Cawthon, and the C++ code running in v1.4.5 were developed by BasDev.
+FNaF is a game by Scott Cawthon, and the *most* C++ code running in v1.5 were developed by BasDev.
 
