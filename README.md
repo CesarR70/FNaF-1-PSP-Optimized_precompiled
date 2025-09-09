@@ -3,13 +3,11 @@ Update: 9-9-2025 6:06PM EST -
 Testing continues to go smoothly on v1.5
 
 There has been a very large number of changes applied behind the scenes to the original logic of the game. 
-
 Not much remains of BasDev's original code (asside from how save files opperate)
 
 Any bugs that are found are quickly corrected & an updated EBOOT.PBP is applied to this branch.  
 
 Although testing is not complete yet, I can confidently say that version 1.5 should be safe to play
-
 Testing will continue, but Im removing the warnings from this README.  
 
 It shouldnt be long before v1.5 is merged with the main branch
