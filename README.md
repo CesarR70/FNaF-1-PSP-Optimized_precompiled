@@ -1,20 +1,17 @@
 # FNaF-1-PSP-v1.5 - TESTING
-Update: 9-10-2025 1:22PM EST - 
-Update: 9-8-2025 9:24PM EST - Testing of version 1.5 is going very well with emulation. 
+Update: 9-9-2025 6:06PM EST - 
+Testing continues to go smoothly on v1.5
 
-There have been a multitude of code optimizations this time around that should hopefully improve battery life while gaming as well as improve performance.
+There has been a very large number of changes applied behind the scenes to the original logic of the game. 
+Not much remains of BasDev's original code (asside from how save files opperate)
 
-I will move on to testing on real hardware and make any adjustments needed before merging v1.5 to the main branch
--Cesar
+Any bugs that are found are quickly corrected & an updated EBOOT.PBP is applied to this branch.  
+Although testing is not complete yet, I can confidently say that version 1.5 should be safe to play
+Testing will continue, but Im removing the warnings from this README.  
 
-!! THIS IS AN EXPERIMENTAL BRANCH !!
-!! TESTING IS NOT COMPLETE YET !!
+It shouldnt be long before v1.5 is merged with the main branch
 
-I've been looking into BaseDev's source code and was playing around with a few things in an attempt to utilize even more of the PSP's hardware when playing the game.
-From my testing to create v1.4.5, i've noticed that performance always took the biggest hit whenever animatronics were moving around.
 
-Here is a compliled version of v1.5 to hopefully cleanup some of the logic
--Cesar
 
 --Installation--
 Simply place the "FNaF 1 PSP v1.5" folder in the /PSP/GAME/ directory of your memory card 
@@ -23,5 +20,6 @@ Simply place the "FNaF 1 PSP v1.5" folder in the /PSP/GAME/ directory of your me
 --Testing--
 Testing is NOT complete on this version of the game!
 
-FNaF is a game by Scott Cawthon, and the *most* C++ code running in v1.5 were developed by BasDev.
+"Five Nights At Freddy's" is a game by Scott Cawthon and I dont not take any credit for the original work.
 
+-Cesar
