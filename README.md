@@ -21,7 +21,7 @@ Simply place the "FNaF 1 PSP v1.5" folder in the /PSP/GAME/ directory of your me
 
 --Testing--
 
-Testing is NOT complete on this version of the game!
+Tested on the PPSSPP emulator as well as a physical PSP 3000 running ARK4 v6.60
 
 "Five Nights At Freddy's" is a game by Scott Cawthon and I dont not take any credit for the original work.
 
