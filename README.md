@@ -1,4 +1,5 @@
 # FNaF-1-PSP-v1.5 - TESTING
+Update: 9-10-2025 1:22PM EST - 
 Update: 9-8-2025 9:24PM EST - Testing of version 1.5 is going very well with emulation. 
 
 There have been a multitude of code optimizations this time around that should hopefully improve battery life while gaming as well as improve performance.
