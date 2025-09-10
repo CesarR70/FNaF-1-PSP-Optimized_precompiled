@@ -1,21 +1,34 @@
-# FNaF-1-PSP-v1.5 
+# 🎮 FNaF 1 PSP v1.5  
 
-Release Notes:
+A **PlayStation Portable (PSP) port** of *Five Nights at Freddy’s* (FNaF 1).  
+This release has been fully re-worked and optimized for smoother performance on PSP hardware and emulators.  
 
--Same Asset Files from v1.4.5
+---
 
--Totally re-worked and optimized source code (under the hood, v1.5 is basically a completely different game)
+## 📌 Release Notes (v1.5)
+- Uses the **same asset files** as v1.4.5  
+- **Completely re-written and optimized source code**  
+  > (Under the hood, v1.5 is essentially a different game for improved efficiency)
 
+---
 
---Installation--
+## 📥 Installation
+1. Download the latest release.  
+2. Place the folder **`FNaF 1 PSP v1.5`** inside your PSP’s `/PSP/GAME/` directory.  
+3. Custom firmware is **required** to play.  
 
-Simply place the "FNaF 1 PSP v1.5" folder in the /PSP/GAME/ directory of your memory card 
-(Custom firmware is required to play)
+---
 
---Testing--
+## 🧪 Testing
+- ✅ **PPSSPP Emulator**  
+- ✅ **PSP-3000** (tested with ARK4 v6.60 custom firmware)  
 
-Tested on the PPSSPP emulator as well as a physical PSP 3000 running ARK4 v6.60
+---
 
-"Five Nights At Freddy's" is a game by Scott Cawthon and I do not take any credit for the original work.
+## ⚠️ Disclaimer
+*"Five Nights at Freddy’s"* is a game created by **Scott Cawthon**.  
+This is an unofficial **fan-made port** for PSP. I claim no ownership of the original game or its assets.  
 
--Cesar
+---
+
+👤 **Created by:** CesarR70
