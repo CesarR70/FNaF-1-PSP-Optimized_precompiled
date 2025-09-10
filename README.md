@@ -3,7 +3,7 @@
 A **PlayStation Portable (PSP) port** of *Five Nights at Freddy’s* (FNaF 1).  
 This release has been fully re-worked and optimized for smoother performance on PSP hardware and emulators.
 
-(Originally a fork of the port created by BasDev)   
+(Originally a fork of the port created by BasDev: https://basdev.itch.io/fnaf1psp)   
 
 ---
 
