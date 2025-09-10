@@ -1,7 +1,9 @@
 # FNaF-1-PSP-v1.5 
 
 Release Notes:
+
 -Same Asset Files from v1.4.5
+
 -Totally re-worked and optimized source code (under the hood, v1.5 is basically a completely different game)
 
 
