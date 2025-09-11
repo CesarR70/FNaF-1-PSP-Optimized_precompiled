@@ -1,4 +1,4 @@
-# 🎮 FNaF 1 PSP v1.5.1  
+# 🎮 FNaF 1 PSP v1.5.2  
 
 A **PlayStation Portable (PSP) port** of *Five Nights at Freddy’s* (FNaF 1).  
 This release has been fully re-worked and optimized for smoother performance on PSP hardware and emulators.
@@ -7,15 +7,14 @@ This release has been fully re-worked and optimized for smoother performance on 
 
 ---
 
-## 📌 Release Notes (v1.5.1)
+## 📌 Release Notes (v1.5.2)
+- Corrected a potential memory leak in vram
+- Race conditions removed within Audio, Camera & Jumpscare logic (prevents potential crashes when hardware is being overwhelmed)
+
+## v1.5.1 Release Notes
 - Tweaked some compile flags for smaller & faster C++ code
 - Adjustments to audio assets (slightly smaller filesizes with noticeable improvements to audio quality)
 - Less I/O hungry for smooth & stable gameplay during later levels or custom night   
-
-## v1.5 Release Notes
-- Uses the **same asset files** as v1.4.5  
-- **Completely re-written and optimized source code**  
-  > (Under the hood, v1.5 is essentially a different game for improved efficiency)
 
 ---
 
