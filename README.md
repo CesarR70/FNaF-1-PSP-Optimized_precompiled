@@ -7,7 +7,12 @@ This release has been fully re-worked and optimized for smoother performance on 
 
 ---
 
-## 📌 Release Notes (v1.5)
+## 📌 Release Notes (v1.5.1)
+- v1.5.1
+- Adjusted tweaked some flags during compiling for smaller & faster C++ code
+- Adjustments to Audio assets (slightly smaller filesizes with noticeably improvements to audio quality)
+- Less I/O hungry for smooth gameplay during later levels   
+- v1.5 Release Notes
 - Uses the **same asset files** as v1.4.5  
 - **Completely re-written and optimized source code**  
   > (Under the hood, v1.5 is essentially a different game for improved efficiency)
