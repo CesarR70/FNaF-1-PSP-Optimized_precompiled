@@ -1,4 +1,4 @@
-# 🎮 FNaF 1 PSP v1.5.4  
+# 🎮 FNaF 1 PSP v1.5.5  
 
 A **PlayStation Portable (PSP) port** of *Five Nights at Freddy’s* (FNaF 1).  
 This release has been fully re-worked and optimized for smoother performance on PSP hardware and emulators.
@@ -7,7 +7,14 @@ This release has been fully re-worked and optimized for smoother performance on 
 
 ---
 
-## 📌 Release Notes (v1.5.4)
+## 📌 Release Notes (v1.5.5)
+- Faster Load Times
+- Pre-caching most commonly used assets & jumpscares for faster display to player
+- Better difficulty scaling for Night5+ (Animatronics will think about 20% faster)
+- Screens no longer go dark when Foxy attacks
+- You can now hear Foxy's footsteps prior to him entering your office (you only have 1 second to close your door 😄) 
+
+## v1.5.4
 - Bugfix: All cameras visible from beginning of night
 - Improvements to Runtime (Only cameras with a new image will be processed)
 - Improved Horror Aesthetic 😉 
